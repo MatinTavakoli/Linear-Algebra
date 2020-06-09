@@ -30,6 +30,9 @@ Made by [Matin Tavakoli](https://github.com/MatinTavakoli) and [Hossein Zaredar]
 * 3Blue1Brown:
 [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
+* Steve Brunton:
+[Linear Algebra](https://www.youtube.com/playlist?list=PLMrJAkhIeNNRjxJ_sMtJ02geqw_-vuB7O)
+
 
 * Physics Videos by Eugene Khutoryansky:
   * [Eigenvalues and Eigenvectors, Imaginary and Real](https://www.youtube.com/watch?v=8F0gdO643Tc)
