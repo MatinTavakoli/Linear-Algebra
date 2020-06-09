@@ -27,15 +27,15 @@ Made by [Matin Tavakoli](https://github.com/MatinTavakoli) and [Hossein Zaredar]
 
 ## Resources:
 
-###### -3Blue1Brown:
+###### - 3Blue1Brown:
 [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 
-###### -Physics Videos by Eugene Khutoryansky:
+###### - Physics Videos by Eugene Khutoryansky:
 [Eigenvalues and Eigenvectors, Imaginary and Real](https://www.youtube.com/watch?v=8F0gdO643Tc)
 <br />
 [Cross Product and Dot Product- Visual explanation](https://www.youtube.com/watch?v=h0NJK4mEIJU)
 
 
-###### -Other:
+###### - Other:
 [Gram-Schmidt Process / Orthonormalization of a basis in R³ (animation)](https://www.youtube.com/watch?v=Ys28-Yq21B8)
