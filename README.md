@@ -4,6 +4,7 @@ Made by [Matin Tavakoli](https://github.com/MatinTavakoli) and [Hossein Zaredar]
 
 ## Reference Chapters:
 
+
 [Chapter 1: Linear Equations in Linear Algebra](https://docs.google.com/presentation/d/1-MiRBsr_Jtu7ajdIFmQ4HnCzqAxI5aH48QLl8TXE_Pc/edit?usp=sharing)
 
 [Chapter 2: Matrix Algebra](https://docs.google.com/presentation/d/18_ApTDMTUUDgAwreolbBsbubylR0MqzHJn0yGXEGS64/edit?usp=sharing)
@@ -20,4 +21,10 @@ Made by [Matin Tavakoli](https://github.com/MatinTavakoli) and [Hossein Zaredar]
 
 ## Applications:
 
+
 [Cryptography](https://docs.google.com/presentation/d/1a1dbqlAiK1dTKj32ofR-nXLknKS916uMszEt6ru2q6s/edit?usp=sharing)
+
+
+## Resources:
+
+###### 3Blue1Brown
