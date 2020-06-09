@@ -39,5 +39,8 @@ Made by [Matin Tavakoli](https://github.com/MatinTavakoli) and [Hossein Zaredar]
   * [Cross Product and Dot Product- Visual explanation](https://www.youtube.com/watch?v=h0NJK4mEIJU)
 
 
+* Zach Star:
+  * [Dear linear algebra students, This is what matrices (and matrix manipulation) really look like](https://www.youtube.com/watch?v=4csuTO7UTMo)
+  * [The applications of eigenvectors and eigenvalues - That thing you heard in Endgame has other uses](https://www.youtube.com/watch?v=i8FukKfMKCI)
 * Other:
   * [Gram-Schmidt Process / Orthonormalization of a basis in R³ (animation)](https://www.youtube.com/watch?v=Ys28-Yq21B8)
