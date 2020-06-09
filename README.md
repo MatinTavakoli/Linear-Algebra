@@ -37,4 +37,4 @@ Made by [Matin Tavakoli](https://github.com/MatinTavakoli) and [Hossein Zaredar]
 
 
 * Other:
-[Gram-Schmidt Process / Orthonormalization of a basis in R³ (animation)](https://www.youtube.com/watch?v=Ys28-Yq21B8)
+  * [Gram-Schmidt Process / Orthonormalization of a basis in R³ (animation)](https://www.youtube.com/watch?v=Ys28-Yq21B8)
