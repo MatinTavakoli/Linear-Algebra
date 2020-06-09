@@ -20,4 +20,4 @@ Made by [Matin Tavakoli](https://github.com/MatinTavakoli) and [Hossein Zaredar]
 
 ## Applications:
 
-Cryptography: https://docs.google.com/presentation/d/1a1dbqlAiK1dTKj32ofR-nXLknKS916uMszEt6ru2q6s/edit?usp=sharing.
+[Cryptography](https://docs.google.com/presentation/d/1a1dbqlAiK1dTKj32ofR-nXLknKS916uMszEt6ru2q6s/edit?usp=sharing)
