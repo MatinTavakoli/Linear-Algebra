@@ -17,7 +17,7 @@ Made by [Matin Tavakoli](https://github.com/MatinTavakoli) and [Hossein Zaredar]
 
 [Chapter 6: Orthogonality and Least Squares](https://docs.google.com/presentation/d/1iQUIWw5ecNU68av1pBroSvKMI01fo0BfTNYKelsrUjQ/edit?usp=sharing)
 
-
+[Chapter 7: Symmetric Matrices and Quadratic Forms - Part 1](https://docs.google.com/presentation/d/1ObeUVLqzf2wZpY493x3_lhrKFa9uqp1T5UeFVnW6AE0/edit?usp=sharing)
 
 ## Applications:
 
