@@ -32,16 +32,20 @@ p1 = '%dx_1^2' % a if a != 0 else ''
 p2 = '%sx_1x_2' % b_signed if b != 0 else ''
 p3 = '%sx_2^2' % c_signed if c != 0 else ''
 
+
+print(l1)
+print(l2)
+
 eps = 10**-7
 if l1 > eps and l2 > eps:
     stat = 'Positive Definite'
-elif l1 < eps and l2 < eps:
+elif l1 < -eps and l2 < -eps:
     stat = 'Negative Definite'
 elif l1 > eps > l2 > -eps or \
         l2 > eps > l1 > -eps:
     stat = 'Positive Semidefinite'
-elif l1 < eps and -eps < l2 < eps or \
-        l2 < eps and -eps < l1 < eps:
+elif l1 < -eps < l2 < eps or \
+        l2 < -eps < l1 < eps:
     stat = 'Negative Semidefinite'
 else:
     stat = 'Indefinite'
