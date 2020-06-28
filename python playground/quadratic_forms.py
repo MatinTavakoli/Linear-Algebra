@@ -2,9 +2,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # f(x1, x2) = a * x1^2 + b * x1x2 + c * x2^2
-a = -2
-b = 1
-c = 0
+a = 2
+b = -1
+c = 6
 
 x1_range = np.linspace(-2, 2, 30)
 x2_range = np.linspace(-2, 2, 30)
