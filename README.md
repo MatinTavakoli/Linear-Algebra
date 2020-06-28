@@ -19,6 +19,8 @@ Made by [Matin Tavakoli](https://github.com/MatinTavakoli) and [Hossein Zaredar]
 
 [Chapter 7: Symmetric Matrices and Quadratic Forms - Part 1](https://docs.google.com/presentation/d/1ObeUVLqzf2wZpY493x3_lhrKFa9uqp1T5UeFVnW6AE0/edit?usp=sharing)
 
+[Chapter 7: Symmetric Matrices and Quadratic Forms - Part 2](https://docs.google.com/presentation/d/1lBAm-iwGeO-m_UwtVdQRL8eXVdKxMQVu3zvaVq0btyg/edit?usp=sharing)
+
 ## Applications:
 
 
@@ -44,3 +46,5 @@ Made by [Matin Tavakoli](https://github.com/MatinTavakoli) and [Hossein Zaredar]
   * [The applications of eigenvectors and eigenvalues - That thing you heard in Endgame has other uses](https://www.youtube.com/watch?v=i8FukKfMKCI)
 * Other:
   * [Gram-Schmidt Process / Orthonormalization of a basis in R³ (animation)](https://www.youtube.com/watch?v=Ys28-Yq21B8)
+  * [Understanding Singular Value Decomposition and its Application in Data Science](https://towardsdatascience.com/understanding-singular-value-decomposition-and-its-application-in-data-science-388a54be95d)
+  
