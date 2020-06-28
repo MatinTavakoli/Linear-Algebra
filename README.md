@@ -44,3 +44,5 @@ Made by [Matin Tavakoli](https://github.com/MatinTavakoli) and [Hossein Zaredar]
   * [The applications of eigenvectors and eigenvalues - That thing you heard in Endgame has other uses](https://www.youtube.com/watch?v=i8FukKfMKCI)
 * Other:
   * [Gram-Schmidt Process / Orthonormalization of a basis in R³ (animation)](https://www.youtube.com/watch?v=Ys28-Yq21B8)
+  * [Understanding Singular Value Decomposition and its Application in Data Science](https://towardsdatascience.com/understanding-singular-value-decomposition-and-its-application-in-data-science-388a54be95d)
+  
