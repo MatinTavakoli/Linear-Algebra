@@ -19,6 +19,8 @@ Made by [Matin Tavakoli](https://github.com/MatinTavakoli) and [Hossein Zaredar]
 
 [Chapter 7: Symmetric Matrices and Quadratic Forms - Part 1](https://docs.google.com/presentation/d/1ObeUVLqzf2wZpY493x3_lhrKFa9uqp1T5UeFVnW6AE0/edit?usp=sharing)
 
+[Chapter 7: Symmetric Matrices and Quadratic Forms - Part 2](https://docs.google.com/presentation/d/1lBAm-iwGeO-m_UwtVdQRL8eXVdKxMQVu3zvaVq0btyg/edit?usp=sharing)
+
 ## Applications:
 
 
